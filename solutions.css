@@ -1,8 +1,6 @@
 @media screen and (max-width: 420px) {
     .row{
         width:350px;
-        margin-top:0;
-        padding:50px 0;
     }
 
     img{
@@ -14,8 +12,6 @@
 @media screen and (max-width: 760px) and (min-width:421px){
     .row{
         width:600px;
-        margin-top:0;
-        padding:50px 0;
     }
 
     img{
